@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-react-for-atom",
+  "version": "1.0.0",
+  "description": "Babel plugin for converting react import to react-for-atom imports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alanzanattadev/babel-plugin-react-for-atom.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "react",
+    "atom"
+  ],
+  "author": "alanzanattadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanzanattadev/babel-plugin-react-for-atom/issues"
+  },
+  "homepage": "https://github.com/alanzanattadev/babel-plugin-react-for-atom#readme"
+}
